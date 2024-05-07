@@ -10,3 +10,4 @@ xgboost==1.7.4
 sbrscrape==0.0.8
 Flask==2.2.3
 openpyxl==3.1.1
+werkzeug>=3.0.3 # not directly required, pinned by Snyk to avoid a vulnerability
